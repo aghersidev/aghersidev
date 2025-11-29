@@ -1,7 +1,7 @@
 
-### Hi there 👋 I'm [Andres!](https://github.com/aghersidev/)
-
 <img align="right" alt="GIF" height="160px" src="https://github.com/aghersidev/aghersidev/blob/main/AndrewGhersi%20-%20CatCat.gif" />
+
+### Hi there 👋 I'm [Andres!](https://github.com/aghersidev/)
 
 ##### Languages I use most of the time
 
